@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /contact
+Disallow: /about
+Disallow: /en/contact
+Disallow: /en/about
+
+Sitemap: http://stklimchuk.by/sitemap.xml

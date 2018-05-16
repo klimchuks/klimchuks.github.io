@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>http://stklimchuk.by</loc>
+        <xhtml:link rel="alternate" hreflang="x-default" href="http://stklimchuk.by" />
+        <xhtml:link rel="alternate" hreflang="ru" href="http://stklimchuk.by"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://stklimchuk.by/en"/>
+        <lastmod>2019-12-13</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://stklimchuk.by/paintings</loc>
+        <xhtml:link rel="alternate" hreflang="x-default" href="http://stklimchuk.by/paintings" />
+        <xhtml:link rel="alternate" hreflang="ru" href="http://stklimchuk.by/paintings"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://stklimchuk.by/en/paintings"/>
+        <lastmod>2019-12-13</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://stklimchuk.by/graphics</loc>
+        <xhtml:link rel="alternate" hreflang="x-default" href="http://stklimchuk.by/graphics" />
+        <xhtml:link rel="alternate" hreflang="ru" href="http://stklimchuk.by/graphics"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://stklimchuk.by/en/graphics"/>
+        <lastmod>2019-12-13</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+</urlset>
